@@ -1,0 +1,20 @@
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.pdb
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\bin\Debug\WeekCalculation.exe.config
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\bin\Debug\WeekCalculation.exe
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\bin\Debug\WeekCalculation.pdb
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.Form1.resources
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.Properties.Resources.resources
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.exe
+D:\Maikyau\Desktop\CEN 414 Codes\Task 5\obj\Debug\WeekCalculation.pdb
